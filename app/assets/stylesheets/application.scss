@@ -25,7 +25,7 @@
   letter-spacing: -1px;
   padding: 15px 0;
   a {
-    color: #2F363E;
+    color: black;
   }
 }
 
@@ -56,4 +56,16 @@
       }
     }
   }
+}
+
+a {
+  color: black;
+}
+
+.navbar-inner {
+  background-color: #ff6428;
+}
+
+.navbar-nav li a {
+  color: black !important;
 }
